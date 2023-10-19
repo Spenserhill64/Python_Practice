@@ -5,6 +5,7 @@ company_employees = input('Please type the number of employees at the insurance 
 
 location = input('Please type the location of the company>>')
 
+#should have proper postive to negative range
 price_policy_low = input('Please provide the lowest price of insurance policies>>')
 
 price_policy_high = input('Please provide the highest price of insurance policy>>')
